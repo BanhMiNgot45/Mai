@@ -1,1 +1,0 @@
-{"version":3,"file":"main_menu.jsx","sourceRoot":"./","sources":["scripts/main_menu.tsx"],"names":[],"mappings":";;;;;;AAAA,OAAO,EAAoB,IAAI,EAAiB,MAAM,eAAe,CAAC;AAGtE,IAAqB,QAAQ,GAA7B,MAAqB,QAAS,SAAQ,KAAK,CAAC,OAAO;IAE/C,kBAAkB;QACd,IAAI,CAAC,QAAQ,EAAE,CAAC,YAAY,CAAC,2BAA2B,CAAC,CAAC;IAC9D,CAAC;CACJ,CAAA;AALoB,QAAQ;IAD5B,IAAI;GACgB,QAAQ,CAK5B;eALoB,QAAQ"}
