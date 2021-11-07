@@ -3,7 +3,6 @@
 	"exclude": [".import"],
 	"compilerOptions": {
 		"rootDir": ".",
-		"outDir": "scripts",
 		"target": "ESNext",
 		"module": "ESNext",
 		"lib": ["ESNext"],
